@@ -1,0 +1,541 @@
+,ID,Name,Text,Quantity,Unit,ingredient
+0,1,Cookbook:Hard Tack of India (Baati),1 pound (450 g) wheat flour,1,pound,(450 g) wheat flour
+1,1,Cookbook:Hard Tack of India (Baati),1/2 teaspoon salt,1/2,teaspoon,salt
+2,1,Cookbook:Hard Tack of India (Baati),3 tablespoons oil,3,tablespoons,oil
+3,1,Cookbook:Hard Tack of India (Baati),1 1/2 teaspoons ghee (for serving),1,1/2,teaspoons ghee (for serving)
+4,2,Cookbook:Baba Ganoush,"1 medium-large eggplant, any variety, 1 to 1½ pounds",1,medium-large,"eggplant, any variety, 1 to 1½ pounds"
+5,2,Cookbook:Baba Ganoush,2 tablespoons raw tahini,2,tablespoons,raw tahini
+6,2,Cookbook:Baba Ganoush,Juice of 1 lime,Juice,of,1 lime
+7,2,Cookbook:Baba Ganoush,"1 clove garlic, crushed",1,clove,"garlic, crushed"
+8,2,Cookbook:Baba Ganoush,3 tablespoons olive oil,3,tablespoons,olive oil
+9,2,Cookbook:Baba Ganoush,½ tsp salt,½,tsp,salt
+10,2,Cookbook:Baba Ganoush,"Paprika or cayenne pepper, as a garnish",Paprika,or,"cayenne pepper, as a garnish"
+11,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),2 lbs. (900 g) salt cod,2,lbs.,(900 g) salt cod
+12,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),1 cup olive oil,1,cup,olive oil
+13,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),4 medium-sized onions,4,medium-sized,onions
+14,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),"1 tsp. garlic, finely-chopped",1,tsp.,"garlic, finely-chopped"
+15,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),6 medium-sized potatoes,6,medium-sized,potatoes
+16,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),20 pitted black olives,20,pitted,black olives
+17,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),"6 hard-boiled eggs, sliced",6,hard-boiled,"eggs, sliced"
+18,3,Cookbook:Salt Cod and Potato Casserole (Bacalhau à Gomes de Sá),"2 Tbs. parsley, finely chopped",2,Tbs.,"parsley, finely chopped"
+19,4,Cookbook:Bacon Cheese Omelet,3 large eggs,3,large,eggs
+20,4,Cookbook:Bacon Cheese Omelet,2 medium (10 oz) slices of cooked bacon,2,medium,(10 oz) slices of cooked bacon
+21,4,Cookbook:Bacon Cheese Omelet,2 slices of American cheese,2,slices,of American cheese
+22,4,Cookbook:Bacon Cheese Omelet,1 Tablespoon of butter,1,Tablespoon,of butter
+23,5,Cookbook:Baingan Bartha (Southern),4 Maharashtrian Method,4,Maharashtrian,Method
+24,6,Cookbook:Baked Lamb and Yogurt,1½ lb (680 g) lamb,1½,lb,(680 g) lamb
+25,6,Cookbook:Baked Lamb and Yogurt,4 tablespoons (½ stick or 50 g) butter,4,tablespoons,(½ stick or 50 g) butter
+26,6,Cookbook:Baked Lamb and Yogurt,2 tablespoons (30 ml) rice,2,tablespoons,(30 ml) rice
+27,7,Cookbook:Baked Oatmeal,3 cups (720 g) quick-cooking oats,3,cups,(720 g) quick-cooking oats
+28,7,Cookbook:Baked Oatmeal,1 cup (240 g) brown sugar,1,cup,(240 g) brown sugar
+29,7,Cookbook:Baked Oatmeal,2 teaspoons baking powder,2,teaspoons,baking powder
+30,7,Cookbook:Baked Oatmeal,1 teaspoon ground cinnamon,1,teaspoon,ground cinnamon
+31,7,Cookbook:Baked Oatmeal,1 teaspoon salt,1,teaspoon,salt
+32,7,Cookbook:Baked Oatmeal,1 cup (240 ml) milk,1,cup,(240 ml) milk
+33,7,Cookbook:Baked Oatmeal,1/2 cup (120 g) butter (melted),1/2,cup,(120 g) butter (melted)
+34,8,Cookbook:Baked Pork Chops,"3 or 4 bone-in pork chops, 1/4 inch (6 mm) thin",3,or,"4 bone-in pork chops, 1/4 inch (6 mm) thin"
+35,8,Cookbook:Baked Pork Chops,"A medium apple, cored and sliced thin",A,medium,"apple, cored and sliced thin"
+36,8,Cookbook:Baked Pork Chops,"A medium onion, sliced thin",A,medium,"onion, sliced thin"
+37,8,Cookbook:Baked Pork Chops,1 tablespoon (15 ml) honey,1,tablespoon,(15 ml) honey
+38,8,Cookbook:Baked Pork Chops,1 tablespoon (15 ml) caraway seed (can be salvaged from the bag your rye bread comes in),1,tablespoon,(15 ml) caraway seed (can be salvaged from the bag your rye bread comes in)
+39,8,Cookbook:Baked Pork Chops,"Garlic salt, black pepper, and Dijon mustard, to taste",Garlic,"salt,","black pepper, and Dijon mustard, to taste"
+40,9,Cookbook:Banana Bread,Recipes with metric units,Recipes,with,metric units
+41,10,Cookbook:Banana Nut Muffin,⅔ cups (160 ml) white flour,⅔,cups,(160 ml) white flour
+42,10,Cookbook:Banana Nut Muffin,1⅓ cups (320 g) whole wheat flour,1⅓,cups,(320 g) whole wheat flour
+43,10,Cookbook:Banana Nut Muffin,½ tsp. salt,½,tsp.,salt
+44,10,Cookbook:Banana Nut Muffin,2 tsp. baking powder,2,tsp.,baking powder
+45,10,Cookbook:Banana Nut Muffin,½ cups (120 ml) chopped nuts (such as walnuts),½,cups,(120 ml) chopped nuts (such as walnuts)
+46,10,Cookbook:Banana Nut Muffin,"1 tbsp. honey (or molasses, or 1 T honey, 1 T sugar)",1,tbsp.,"honey (or molasses, or 1 T honey, 1 T sugar)"
+47,10,Cookbook:Banana Nut Muffin,1 cup milk (or soy milk),1,cup,milk (or soy milk)
+48,10,Cookbook:Banana Nut Muffin,¼ cup vegetable oil,¼,cup,vegetable oil
+49,10,Cookbook:Banana Nut Muffin,"2 or 3 bananas, mashed",2,or,"3 bananas, mashed"
+50,10,Cookbook:Banana Nut Muffin,"Note: Add sugar to taste, if necessary.",Note:,Add,"sugar to taste, if necessary."
+51,11,Cookbook:Banana Chocolate Bread Pudding,¼ cup (20 grams (0.71 oz)) semisweet chocolate chips,¼,cup,(20 grams (0.71 oz)) semisweet chocolate chips
+52,11,Cookbook:Banana Chocolate Bread Pudding,⅓ cup (80 milliliters (2.7 US fl oz)) spiced rum,⅓,cup,(80 milliliters (2.7 US fl oz)) spiced rum
+53,11,Cookbook:Banana Chocolate Bread Pudding,2 cups (450 milliliters (15 US fl oz)) whipping cream,2,cups,(450 milliliters (15 US fl oz)) whipping cream
+54,11,Cookbook:Banana Chocolate Bread Pudding,1 teaspoon vanilla extract,1,teaspoon,vanilla extract
+55,11,Cookbook:Banana Chocolate Bread Pudding,⅓ cup ((75 grams (2.6 oz)) sugar,⅓,cup,((75 grams (2.6 oz)) sugar
+56,11,Cookbook:Banana Chocolate Bread Pudding,1 x 16-ounce (450 g) loaf of French bread or other non-sour white bread (stale bread is traditionally used),1,x,16-ounce (450 g) loaf of French bread or other non-sour white bread (stale bread is traditionally used)
+57,11,Cookbook:Banana Chocolate Bread Pudding,2 tablespoons butter,2,tablespoons,butter
+58,12,Cookbook:Banana Cream Pie,"1 Ingredients
+
+1.1 Pie crust
+1.2 Pie filling
+1.3 Pie topping
+
+",1,"Ingredients
+
+1.1","Pie crust
+1.2 Pie filling
+1.3 Pie topping
+
+"
+59,12,Cookbook:Banana Cream Pie,1.1 Pie crust,1.1,Pie,crust
+60,12,Cookbook:Banana Cream Pie,1.2 Pie filling,1.2,Pie,filling
+61,12,Cookbook:Banana Cream Pie,1.3 Pie topping,1.3,Pie,topping
+62,12,Cookbook:Banana Cream Pie,"2 Procedure
+
+2.1 Pie crust
+2.2 Pie filling
+2.3 Pie topping
+
+",2,"Procedure
+
+2.1","Pie crust
+2.2 Pie filling
+2.3 Pie topping
+
+"
+63,12,Cookbook:Banana Cream Pie,2.1 Pie crust,2.1,Pie,crust
+64,12,Cookbook:Banana Cream Pie,2.2 Pie filling,2.2,Pie,filling
+65,12,Cookbook:Banana Cream Pie,2.3 Pie topping,2.3,Pie,topping
+66,13,Cookbook:Banana Cream Pie II,"3 large bananas or 4 medium bananas, sliced",3,large,"bananas or 4 medium bananas, sliced"
+67,13,Cookbook:Banana Cream Pie II,3/4 cup sugar,3/4,cup,sugar
+68,13,Cookbook:Banana Cream Pie II,"1/3 cup all purpose flour or
+3 Tbs cornstarch",1/3,cup,"all purpose flour or
+3 Tbs cornstarch"
+69,13,Cookbook:Banana Cream Pie II,1/4 tsp salt,1/4,tsp,salt
+70,13,Cookbook:Banana Cream Pie II,2 cups milk,2,cups,milk
+71,13,Cookbook:Banana Cream Pie II,"3 egg yolks, slightly beaten",3,egg,"yolks, slightly beaten"
+72,13,Cookbook:Banana Cream Pie II,2 Tbs butter,2,Tbs,butter
+73,13,Cookbook:Banana Cream Pie II,1 tsp vanilla extract,1,tsp,vanilla extract
+74,13,Cookbook:Banana Cream Pie II,1 9-inch (23 cm) baked pastry shell,1,9-inch,(23 cm) baked pastry shell
+75,13,Cookbook:Banana Cream Pie II,meringue made from the leftover egg whites (optional),meringue,made,from the leftover egg whites (optional)
+76,14,Cookbook:Pancake,"1 Pancakes from Scratch
+
+1.1 Ingredients
+1.2 Procedure
+1.3 Notes, tips, and variations
+
+",1,Pancakes,"from Scratch
+
+1.1 Ingredients
+1.2 Procedure
+1.3 Notes, tips, and variations
+
+"
+77,14,Cookbook:Pancake,"1.3 Notes, tips, and variations",1.3,"Notes,","tips, and variations"
+78,14,Cookbook:Pancake,"2 Banana-Spirulina Pancakes (Vegan)
+
+2.1 Materials
+2.2 Ingredients
+2.3 Procedure
+2.4 Serving Tips
+
+",2,Banana-Spirulina,"Pancakes (Vegan)
+
+2.1 Materials
+2.2 Ingredients
+2.3 Procedure
+2.4 Serving Tips
+
+"
+79,14,Cookbook:Pancake,2.4 Serving Tips,2.4,Serving,Tips
+80,14,Cookbook:Pancake,4 External links,4,External,links
+81,15,Cookbook:Bánh Mì,pickled julienned carrot,pickled,julienned,carrot
+82,15,Cookbook:Bánh Mì,pickled julienned daikon radish,pickled,julienned,daikon radish
+83,15,Cookbook:Bánh Mì,cilantro leaves and stalks,cilantro,leaves,and stalks
+84,15,Cookbook:Bánh Mì,super-thin jalapeño slices,super-thin,jalapeño,slices
+85,15,Cookbook:Bánh Mì,fresh sliced cucumber,fresh,sliced,cucumber
+86,16,Cookbook:Barbecued Spare Ribs,2 pounds pork spare ribs,2,pounds,pork spare ribs
+87,16,Cookbook:Barbecued Spare Ribs,1/4 cup soy sauce,1/4,cup,soy sauce
+88,16,Cookbook:Barbecued Spare Ribs,2 tablespoons honey,2,tablespoons,honey
+89,16,Cookbook:Barbecued Spare Ribs,2 tablespoons hoisin sauce,2,tablespoons,hoisin sauce
+90,16,Cookbook:Barbecued Spare Ribs,2 tablespoons white vinegar,2,tablespoons,white vinegar
+91,16,Cookbook:Barbecued Spare Ribs,1 tablespoon sake,1,tablespoon,sake
+92,16,Cookbook:Barbecued Spare Ribs,"2 cloves garlic, minced",2,cloves,"garlic, minced"
+93,16,Cookbook:Barbecued Spare Ribs,1 teaspoon sugar,1,teaspoon,sugar
+94,16,Cookbook:Barbecued Spare Ribs,1/4 teaspoon of freshly ground white pepper,1/4,teaspoon,of freshly ground white pepper
+95,16,Cookbook:Barbecued Spare Ribs,2 tablespoons pork stock,2,tablespoons,pork stock
+96,16,Cookbook:Barbecued Spare Ribs,Freshly ground black pepper and salt to taste,Freshly,ground,black pepper and salt to taste
+97,16,Cookbook:Barbecued Spare Ribs,(Optional) 2 teaspoons Cumin,(Optional),2,teaspoons Cumin
+98,17,Cookbook:Barbecue Sauce,1 cup ketchup (catsup),1,cup,ketchup (catsup)
+99,17,Cookbook:Barbecue Sauce,1/2 cup molasses,1/2,cup,molasses
+100,17,Cookbook:Barbecue Sauce,"1/2 teaspoon ""concentrated"" liquid smoke flavoring",1/2,teaspoon,"""concentrated"" liquid smoke flavoring"
+101,18,Cookbook:Barbecue Sauce - Kansas City style,1 cup (235 mL) ketchup,1,cup,(235 mL) ketchup
+102,18,Cookbook:Barbecue Sauce - Kansas City style,6 tablespoons (90 mL) Worcestershire sauce,6,tablespoons,(90 mL) Worcestershire sauce
+103,18,Cookbook:Barbecue Sauce - Kansas City style,4 tablespoons (60 mL) butter or margarine,4,tablespoons,(60 mL) butter or margarine
+104,18,Cookbook:Barbecue Sauce - Kansas City style,3 tablespoons (45 mL) white vinegar,3,tablespoons,(45 mL) white vinegar
+105,18,Cookbook:Barbecue Sauce - Kansas City style,1 tablespoon (15 mL) plain prepared mustard,1,tablespoon,(15 mL) plain prepared mustard
+106,18,Cookbook:Barbecue Sauce - Kansas City style,3 tablespoons (45 mL) finely minced yellow onion,3,tablespoons,(45 mL) finely minced yellow onion
+107,18,Cookbook:Barbecue Sauce - Kansas City style,4 teaspoons (20 mL) bottled liquid smoke flavor (hickory),4,teaspoons,(20 mL) bottled liquid smoke flavor (hickory)
+108,18,Cookbook:Barbecue Sauce - Kansas City style,1/4 teaspoon (1 mL) Louisiana-style red pepper sauce,1/4,teaspoon,(1 mL) Louisiana-style red pepper sauce
+109,18,Cookbook:Barbecue Sauce - Kansas City style,1/2 cup (120 mL) brown sugar,1/2,cup,(120 mL) brown sugar
+110,18,Cookbook:Barbecue Sauce - Kansas City style,1 tablespoon (15 mL) granulated sugar,1,tablespoon,(15 mL) granulated sugar
+111,18,Cookbook:Barbecue Sauce - Kansas City style,1 teaspoon (5 mL) salt,1,teaspoon,(5 mL) salt
+112,19,Cookbook:Basic Indian Tomato Gravy,"5 tomatoes, chopped large",5,"tomatoes,",chopped large
+113,19,Cookbook:Basic Indian Tomato Gravy,"1 onion, diced small",1,"onion,",diced small
+114,19,Cookbook:Basic Indian Tomato Gravy,1 tablespoon ghee,1,tablespoon,ghee
+115,19,Cookbook:Basic Indian Tomato Gravy,½ teaspoon ginger paste,½,teaspoon,ginger paste
+116,19,Cookbook:Basic Indian Tomato Gravy,"5 cloves garlic, pounded",5,cloves,"garlic, pounded"
+117,19,Cookbook:Basic Indian Tomato Gravy,1 teaspoon chilli powder,1,teaspoon,chilli powder
+118,19,Cookbook:Basic Indian Tomato Gravy,½ teaspoon coriander powder,½,teaspoon,coriander powder
+119,19,Cookbook:Basic Indian Tomato Gravy,½ teaspoon cumin powder,½,teaspoon,cumin powder
+120,19,Cookbook:Basic Indian Tomato Gravy,¼ teaspoon turmeric powder,¼,teaspoon,turmeric powder
+121,19,Cookbook:Basic Indian Tomato Gravy,salt to taste,salt,to,taste
+122,20,Cookbook:Bean Jahni soup,2 cups of dry white beans,2,cups,of dry white beans
+123,20,Cookbook:Bean Jahni soup,1/2 cup chopped onions,1/2,cup,chopped onions
+124,20,Cookbook:Bean Jahni soup,1/2 cup olive oil,1/2,cup,olive oil
+125,20,Cookbook:Bean Jahni soup,2 tablespoons tomato sauce,2,tablespoons,tomato sauce
+126,20,Cookbook:Bean Jahni soup,1 tablespoon chopped parsley,1,tablespoon,chopped parsley
+127,20,Cookbook:Bean Jahni soup,1 tablespoon chopped mint,1,tablespoon,chopped mint
+128,21,Cookbook:Béchamel Sauce,50g white wheat flour (type 405),50g,white,wheat flour (type 405)
+129,22,Cookbook:Beef and Barley Stew,"3 Notes, tips, and variations",3,"Notes,","tips, and variations"
+130,23,Cookbook:Beef Gravy Soup,"1 pound lean Beef, sliced",1,pound,"lean Beef, sliced"
+131,23,Cookbook:Beef Gravy Soup,"2 medium Onions, sliced",2,medium,"Onions, sliced"
+132,23,Cookbook:Beef Gravy Soup,"1 pound sliced root vegetables, such as Carrots, Turnips, or Radishs",1,pound,"sliced root vegetables, such as Carrots, Turnips, or Radishs"
+133,23,Cookbook:Beef Gravy Soup,2 tablespoons beef broth,2,tablespoons,beef broth
+134,23,Cookbook:Beef Gravy Soup,2 cups vegetable broth,2,cups,vegetable broth
+135,23,Cookbook:Beef Gravy Soup,"Salt, to taste","Salt,",to,taste
+136,24,Cookbook:Bengal Potatoes,Potatoes - approximately 2 pounds (910 g),Potatoes,-,approximately 2 pounds (910 g)
+137,24,Cookbook:Bengal Potatoes,2 teaspoons panch puran,2,teaspoons,panch puran
+138,24,Cookbook:Bengal Potatoes,chili powder (preferably not too hot.  I use Kashmiri chili ),chili,powder,(preferably not too hot.  I use Kashmiri chili )
+139,24,Cookbook:Bengal Potatoes,"oil or, preferably, ghee",oil,"or,","preferably, ghee"
+140,25,Cookbook:Baking powder biscuit,Southern U.S. recipes,Southern,U.S.,recipes
+141,26,Cookbook:Biscuits,Recipes with metric units,Recipes,with,metric units
+142,27,Cookbook:Biscuits and Gravy,1 lb (500 g) Ground breakfast sausage,1,lb,(500 g) Ground breakfast sausage
+143,27,Cookbook:Biscuits and Gravy,3 T (15 mL) bacon grease,3,T,(15 mL) bacon grease
+144,27,Cookbook:Biscuits and Gravy,1/4 c (60 mL) flour,1/4,c,(60 mL) flour
+145,27,Cookbook:Biscuits and Gravy,3 c (720 mL) milk,3,c,(720 mL) milk
+146,27,Cookbook:Biscuits and Gravy,1/2 tsp.(2.5 mL) salt,1/2,tsp.(2.5,mL) salt
+147,27,Cookbook:Biscuits and Gravy,1/4 tbsp. (4 mL) ground black pepper,1/4,tbsp.,(4 mL) ground black pepper
+148,28,Cookbook:Bison Loaf,2 pounds (900 g) ground bison,2,pounds,(900 g) ground bison
+149,28,Cookbook:Bison Loaf,1½ cups soft bread crumbs (2 slices of bread) or ½ cup fine dry bread crumbs,1½,cups,soft bread crumbs (2 slices of bread) or ½ cup fine dry bread crumbs
+150,28,Cookbook:Bison Loaf,½ cup 1% milk,½,cup,1% milk
+151,28,Cookbook:Bison Loaf,"½ cup onion, chopped",½,cup,"onion, chopped"
+152,28,Cookbook:Bison Loaf,"½ medium green pepper, chopped",½,medium,"green pepper, chopped"
+153,28,Cookbook:Bison Loaf,2 teaspoons Worcestershire sauce (optional),2,teaspoons,Worcestershire sauce (optional)
+154,28,Cookbook:Bison Loaf,1 teaspoon garlic powder,1,teaspoon,garlic powder
+155,28,Cookbook:Bison Loaf,½ teaspoon salt,½,teaspoon,salt
+156,28,Cookbook:Bison Loaf,½ teaspoon pepper,½,teaspoon,pepper
+157,29,Cookbook:Black-Eyed Peas and Kale,1 Tbsp. olive oil,1,Tbsp.,olive oil
+158,29,Cookbook:Black-Eyed Peas and Kale,"2 cloves garlic, chopped",2,cloves,"garlic, chopped"
+159,29,Cookbook:Black-Eyed Peas and Kale,"1 medium onion, chopped",1,medium,"onion, chopped"
+160,29,Cookbook:Black-Eyed Peas and Kale,"1 15-oz. can diced tomatoes, undrained",1,15-oz.,"can diced tomatoes, undrained"
+161,29,Cookbook:Black-Eyed Peas and Kale,"1 15-oz. can black-eyed peas, drained",1,15-oz.,"can black-eyed peas, drained"
+162,29,Cookbook:Black-Eyed Peas and Kale,1/4-1/2 tsp. cayenne pepper,1/4-1/2,tsp.,cayenne pepper
+163,29,Cookbook:Black-Eyed Peas and Kale,1 bay leaf,1,bay,leaf
+164,29,Cookbook:Black-Eyed Peas and Kale,"1 10-oz. package frozen kale, thawed",1,10-oz.,"package frozen kale, thawed"
+165,29,Cookbook:Black-Eyed Peas and Kale,salt and pepper to taste,salt,and,pepper to taste
+166,30,Cookbook:Bliny,1.3 pounds (5 cups) of wheat flour,1.3,pounds,(5 cups) of wheat flour
+167,30,Cookbook:Bliny,1 tablespoon of sugar,1,tablespoon,of sugar
+168,30,Cookbook:Bliny,1 tablespoon of salt,1,tablespoon,of salt
+169,30,Cookbook:Bliny,5 teaspoons of butter,5,teaspoons,of butter
+170,30,Cookbook:Bliny,1 ounce of yeast,1,ounce,of yeast
+171,30,Cookbook:Bliny,4 cups of milk,4,cups,of milk
+172,30,Cookbook:Bliny,5 teaspoons of olive oil,5,teaspoons,of olive oil
+173,31,Cookbook:Blondies,"1 Recipes
+
+1.1 Plain
+1.2 For Special diets
+1.3 Variations
+
+",1,"Recipes
+
+1.1","Plain
+1.2 For Special diets
+1.3 Variations
+
+"
+174,31,Cookbook:Blondies,1.2 For Special diets,1.2,For,Special diets
+175,31,Cookbook:Blondies,2 See Also,2,See,Also
+176,32,Cookbook:BLT Sandwich,"3 Notes, tips, and variations",3,"Notes,","tips, and variations"
+177,32,Cookbook:BLT Sandwich,5 External links,5,External,links
+178,33,Cookbook:Blueberry muffin,1¾ cups (250 g) flour,1¾,cups,(250 g) flour
+179,33,Cookbook:Blueberry muffin,⅓ cup (65 g) sugar,⅓,cup,(65 g) sugar
+180,33,Cookbook:Blueberry muffin,2 teaspoons baking powder,2,teaspoons,baking powder
+181,33,Cookbook:Blueberry muffin,¼ teaspoon salt,¼,teaspoon,salt
+182,33,Cookbook:Blueberry muffin,"1 egg, beaten",1,"egg,",beaten
+183,33,Cookbook:Blueberry muffin,¾ cup (180ml) milk,¾,cup,(180ml) milk
+184,33,Cookbook:Blueberry muffin,¼ cup (60ml) cooking oil,¼,cup,(60ml) cooking oil
+185,33,Cookbook:Blueberry muffin,"¾ cup (180ml) blueberries, fresh or frozen",¾,cup,"(180ml) blueberries, fresh or frozen"
+186,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),3 lbs (1.2kg) medium size shrimp,3,lbs,(1.2kg) medium size shrimp
+187,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),"3 lb (1.2kg) yuca root (cassava, manioc)",3,lb,"(1.2kg) yuca root (cassava, manioc)"
+188,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),"2 cups onion, chopped",2,cups,"onion, chopped"
+189,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),"3 cloves garlic, chopped",3,cloves,"garlic, chopped"
+190,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),½ cup olive oil,½,cup,olive oil
+191,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),"6 medium tomatoes, peeled and seeded (or a large can of whole tomatoes)",6,medium,"tomatoes, peeled and seeded (or a large can of whole tomatoes)"
+192,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),"¼ cup cilantro, chopped",¼,cup,"cilantro, chopped"
+193,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),2 cups coconut milk,2,cups,coconut milk
+194,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),¼ cup palm oil (also known as dendê),¼,cup,palm oil (also known as dendê)
+195,34,Cookbook:Shrimp and Cassava Sauce of Brazil (Bobó de Camarao),add salt and pepper to taste,add,salt,and pepper to taste
+196,35,Cookbook:Boerewors,2 lb beef,2,lb,beef
+197,35,Cookbook:Boerewors,2 lb mutton,2,lb,mutton
+198,35,Cookbook:Boerewors,2 lb veal,2,lb,veal
+199,35,Cookbook:Boerewors,¼ lb. spek,¼,lb.,spek
+200,35,Cookbook:Boerewors,1½ Tbsp. salt,1½,Tbsp.,salt
+201,35,Cookbook:Boerewors,1 tsp. ground black pepper.,1,tsp.,ground black pepper.
+202,35,Cookbook:Boerewors,"1 Tbsp. coriander, singed¹ and ground",1,Tbsp.,"coriander, singed¹ and ground"
+203,35,Cookbook:Boerewors,¼ tsp ground cloves,¼,tsp,ground cloves
+204,35,Cookbook:Boerewors,½ tsp grated nutmeg,½,tsp,grated nutmeg
+205,35,Cookbook:Boerewors,½ tsp ground allspice,½,tsp,ground allspice
+206,35,Cookbook:Boerewors,½ cup brown vinegar,½,cup,brown vinegar
+207,35,Cookbook:Boerewors,1½ Cookbook:Brandy (optional),1½,Cookbook:Brandy,(optional)
+208,35,Cookbook:Boerewors,2¼ wide sausage casings,2¼,wide,sausage casings
+209,36,Cookbook:Boiled Pasta,1 Salted water,1,Salted,water
+210,36,Cookbook:Boiled Pasta,2 When to add the pasta,2,When,to add the pasta
+211,36,Cookbook:Boiled Pasta,3 Cooking time,3,Cooking,time
+212,36,Cookbook:Boiled Pasta,4 Testing the pasta,4,Testing,the pasta
+213,36,Cookbook:Boiled Pasta,5 Drain and serve,5,Drain,and serve
+214,36,Cookbook:Boiled Pasta,6 Storing cooked pasta,6,Storing,cooked pasta
+215,36,Cookbook:Boiled Pasta,7 Where did I go wrong?,7,Where,did I go wrong?
+216,36,Cookbook:Boiled Pasta,8 See also,8,See,also
+217,37,Cookbook:Boliche,3-5 lb Beef eye round roast.,3-5,lb,Beef eye round roast.
+218,37,Cookbook:Boliche,"4 Goya Chorizos, quartered lengthwise",4,Goya,"Chorizos, quartered lengthwise"
+219,37,Cookbook:Boliche,3 tbs. capers,3,tbs.,capers
+220,37,Cookbook:Boliche,3 Tbs. green Spanish olives w/pimentos,3,Tbs.,green Spanish olives w/pimentos
+221,37,Cookbook:Boliche,1 large green bell pepper,1,large,green bell pepper
+222,37,Cookbook:Boliche,1 large onion,1,large,onion
+223,37,Cookbook:Boliche,1-2 heaping Tbs. oregano,1-2,heaping,Tbs. oregano
+224,37,Cookbook:Boliche,3 bay leaves,3,bay,leaves
+225,37,Cookbook:Boliche,6 cloves garlic,6,cloves,garlic
+226,37,Cookbook:Boliche,2 packets Goya Sazon con Azafran,2,packets,Goya Sazon con Azafran
+227,37,Cookbook:Boliche,2 large pinches saffron,2,large,pinches saffron
+228,37,Cookbook:Boliche,1 can tomato sauce (29 oz),1,can,tomato sauce (29 oz)
+229,37,Cookbook:Boliche,1/4 cup olive oil,1/4,cup,olive oil
+230,37,Cookbook:Boliche,2 Tbs.  Goya Adobo seasoning,2,Tbs., Goya Adobo seasoning
+231,37,Cookbook:Boliche,1 package Badia Cilantro,1,package,Badia Cilantro
+232,37,Cookbook:Boliche,1 cup red wine,1,cup,red wine
+233,38,Cookbook:Börek,2 cups prepared filling,2,cups,prepared filling
+234,38,Cookbook:Börek,1 box yufka/phyllo pastry sheets[2],1,box,yufka/phyllo pastry sheets[2]
+235,38,Cookbook:Börek,Melted butter or high quality vegetable oil.[3],Melted,butter,or high quality vegetable oil.[3]
+236,39,Cookbook:Bouballe,1 T matzo meal,1,T,matzo meal
+237,39,Cookbook:Bouballe,1 T fecula,1,T,fecula
+238,40,Cookbook:Bouillabaisse,"1 Ingredients
+
+1.1 For the broth
+1.2 For the rouille
+1.3 Preparation
+
+",1,"Ingredients
+
+1.1","For the broth
+1.2 For the rouille
+1.3 Preparation
+
+"
+239,40,Cookbook:Bouillabaisse,1.1 For the broth,1.1,For,the broth
+240,40,Cookbook:Bouillabaisse,1.2 For the rouille,1.2,For,the rouille
+241,40,Cookbook:Bouillabaisse,3 External Links,3,External,Links
+242,41,Cookbook:Bread,"2 Composition
+
+2.1 Types of flour
+2.2 Liquids
+2.3 Leavening
+2.4 Extras
+
+2.4.1 Nuts and Seeds
+2.4.2 Fruit
+2.4.3 Cheese
+2.4.4 Herbs and Spices
+
+
+
+",2,"Composition
+
+2.1","Types of flour
+2.2 Liquids
+2.3 Leavening
+2.4 Extras
+
+2.4.1 Nuts and Seeds
+2.4.2 Fruit
+2.4.3 Cheese
+2.4.4 Herbs and Spices
+
+
+
+"
+243,41,Cookbook:Bread,2.1 Types of flour,2.1,Types,of flour
+244,41,Cookbook:Bread,"2.4 Extras
+
+2.4.1 Nuts and Seeds
+2.4.2 Fruit
+2.4.3 Cheese
+2.4.4 Herbs and Spices
+
+",2.4,"Extras
+
+2.4.1","Nuts and Seeds
+2.4.2 Fruit
+2.4.3 Cheese
+2.4.4 Herbs and Spices
+
+"
+245,41,Cookbook:Bread,2.4.1 Nuts and Seeds,2.4.1,Nuts,and Seeds
+246,41,Cookbook:Bread,2.4.4 Herbs and Spices,2.4.4,Herbs,and Spices
+247,41,Cookbook:Bread,"3 Preparation
+
+3.1 Creating the Dough
+3.2 Shaping Dough
+3.3 Rising Methods
+3.4 Garnishes
+3.5 Baking
+
+3.5.1 Steam Injection
+
+
+
+",3,"Preparation
+
+3.1","Creating the Dough
+3.2 Shaping Dough
+3.3 Rising Methods
+3.4 Garnishes
+3.5 Baking
+
+3.5.1 Steam Injection
+
+
+
+"
+248,41,Cookbook:Bread,3.1 Creating the Dough,3.1,Creating,the Dough
+249,41,Cookbook:Bread,3.2 Shaping Dough,3.2,Shaping,Dough
+250,41,Cookbook:Bread,3.3 Rising Methods,3.3,Rising,Methods
+251,41,Cookbook:Bread,"3.5 Baking
+
+3.5.1 Steam Injection
+
+",3.5,"Baking
+
+3.5.1","Steam Injection
+
+"
+252,41,Cookbook:Bread,3.5.1 Steam Injection,3.5.1,Steam,Injection
+253,41,Cookbook:Bread,4 Going Stale,4,Going,Stale
+254,41,Cookbook:Bread,"5 Some Selected Bread Recipes
+
+5.1 Bread Basics
+5.2 Leavened Breads
+
+5.2.1 Yeast Breads
+5.2.2 Bread Machine Breads
+5.2.3 Steamed Breads
+5.2.4 Biscuits
+5.2.5 Quick Breads, etc.
+5.2.6 Sourdough Breads
+5.2.7 Other Breads
+5.2.8 Pizza
+5.2.9 Soda Breads
+
+
+5.3 Unleavened Breads
+
+",5,Some,"Selected Bread Recipes
+
+5.1 Bread Basics
+5.2 Leavened Breads
+
+5.2.1 Yeast Breads
+5.2.2 Bread Machine Breads
+5.2.3 Steamed Breads
+5.2.4 Biscuits
+5.2.5 Quick Breads, etc.
+5.2.6 Sourdough Breads
+5.2.7 Other Breads
+5.2.8 Pizza
+5.2.9 Soda Breads
+
+
+5.3 Unleavened Breads
+
+"
+255,41,Cookbook:Bread,5.1 Bread Basics,5.1,Bread,Basics
+256,41,Cookbook:Bread,"5.2 Leavened Breads
+
+5.2.1 Yeast Breads
+5.2.2 Bread Machine Breads
+5.2.3 Steamed Breads
+5.2.4 Biscuits
+5.2.5 Quick Breads, etc.
+5.2.6 Sourdough Breads
+5.2.7 Other Breads
+5.2.8 Pizza
+5.2.9 Soda Breads
+
+",5.2,Leavened,"Breads
+
+5.2.1 Yeast Breads
+5.2.2 Bread Machine Breads
+5.2.3 Steamed Breads
+5.2.4 Biscuits
+5.2.5 Quick Breads, etc.
+5.2.6 Sourdough Breads
+5.2.7 Other Breads
+5.2.8 Pizza
+5.2.9 Soda Breads
+
+"
+257,41,Cookbook:Bread,5.2.1 Yeast Breads,5.2.1,Yeast,Breads
+258,41,Cookbook:Bread,5.2.2 Bread Machine Breads,5.2.2,Bread,Machine Breads
+259,41,Cookbook:Bread,5.2.3 Steamed Breads,5.2.3,Steamed,Breads
+260,41,Cookbook:Bread,"5.2.5 Quick Breads, etc.",5.2.5,Quick,"Breads, etc."
+261,41,Cookbook:Bread,5.2.6 Sourdough Breads,5.2.6,Sourdough,Breads
+262,41,Cookbook:Bread,5.2.7 Other Breads,5.2.7,Other,Breads
+263,41,Cookbook:Bread,5.2.9 Soda Breads,5.2.9,Soda,Breads
+264,41,Cookbook:Bread,5.3 Unleavened Breads,5.3,Unleavened,Breads
+265,41,Cookbook:Bread,6 See Also,6,See,Also
+266,41,Cookbook:Bread,7 External Links and References,7,External,Links and References
+267,42,Cookbook:Breaded Fried Oysters,"1 pint shucked large oysters, cleaned and dried",1,pint,"shucked large oysters, cleaned and dried"
+268,42,Cookbook:Breaded Fried Oysters,¼ cup cream,¼,cup,cream
+269,42,Cookbook:Breaded Fried Oysters,2 cups fine bread crumbs or cracker crumbs,2,cups,fine bread crumbs or cracker crumbs
+270,42,Cookbook:Breaded Fried Oysters,"Salt, to taste","Salt,",to,taste
+271,42,Cookbook:Breaded Fried Oysters,"Black pepper, to taste",Black,"pepper,",to taste
+272,42,Cookbook:Breaded Fried Oysters,"Cayenne pepper, to taste",Cayenne,"pepper,",to taste
+273,42,Cookbook:Breaded Fried Oysters,"Vegetable oil, to fry",Vegetable,"oil,",to fry
+274,43,Cookbook:Breakfast Waffles (Gluten-Free),"3 eggs, separated",3,"eggs,",separated
+275,43,Cookbook:Breakfast Waffles (Gluten-Free),1 3/4 cups (420ml) milk,1,3/4,cups (420ml) milk
+276,43,Cookbook:Breakfast Waffles (Gluten-Free),1/2 lb (225g) Wheat-Free Baking Mix,1/2,lb,(225g) Wheat-Free Baking Mix
+277,43,Cookbook:Breakfast Waffles (Gluten-Free),2 teaspoons baking powder,2,teaspoons,baking powder
+278,43,Cookbook:Breakfast Waffles (Gluten-Free),3 teaspoons sugar,3,teaspoons,sugar
+279,43,Cookbook:Breakfast Waffles (Gluten-Free),1/2 teaspoon salt,1/2,teaspoon,salt
+280,43,Cookbook:Breakfast Waffles (Gluten-Free),1/4 cup (2 oz) vegetable oil,1/4,cup,(2 oz) vegetable oil
+281,44,Cookbook:Brigadeiro,1 can of sweetened condensed milk (395g),1,can,of sweetened condensed milk (395g)
+282,44,Cookbook:Brigadeiro,1 tablespoon of butter,1,tablespoon,of butter
+283,44,Cookbook:Brigadeiro,3 tablespoons of cocoa powder,3,tablespoons,of cocoa powder
+284,44,Cookbook:Brigadeiro,1 box of chocolate sprinkles (482g),1,box,of chocolate sprinkles (482g)
+285,45,Cookbook:British Lemon Meringue Pie,8 digestive biscuits (plain/tea biscuits),8,digestive,biscuits (plain/tea biscuits)
+286,45,Cookbook:British Lemon Meringue Pie,"2 imperial tbsp (36 mL, 2.4 US tbsp.) butter",2,imperial,"tbsp (36 mL, 2.4 US tbsp.) butter"
+287,45,Cookbook:British Lemon Meringue Pie,1 tin (300mL) sweetened condensed milk,1,tin,(300mL) sweetened condensed milk
+288,45,Cookbook:British Lemon Meringue Pie,"1-2 lemons, zest and juice",1-2,"lemons,",zest and juice
+289,45,Cookbook:British Lemon Meringue Pie,"3 eggs (1 yolk, 3 whites)",3,eggs,"(1 yolk, 3 whites)"
+290,45,Cookbook:British Lemon Meringue Pie,"6 imperial tbsp (108 mL, 7.2 US tbsp.) caster sugar",6,imperial,"tbsp (108 mL, 7.2 US tbsp.) caster sugar"
+291,46,Cookbook:Broccoli Stir Fry,chicken or other meat.,chicken,or,other meat.
+292,46,Cookbook:Broccoli Stir Fry,powdered ginger (optional),powdered,ginger,(optional)
+293,46,Cookbook:Broccoli Stir Fry,"oil to fry with, possibly including sesame oil",oil,to,"fry with, possibly including sesame oil"
+294,47,Cookbook:Brown Gravy,2 T chopped onion,2,T,chopped onion
+295,47,Cookbook:Brown Gravy,2 T vegetable oil,2,T,vegetable oil
+296,47,Cookbook:Brown Gravy,1 t salt,1,t,salt
+297,47,Cookbook:Brown Gravy,Pepper to taste,Pepper,to,taste
+298,47,Cookbook:Brown Gravy,2 T flour,2,T,flour
+299,47,Cookbook:Brown Gravy,1½ C vegetable stock (or beef or mushroom stock),1½,C,vegetable stock (or beef or mushroom stock)
+300,47,Cookbook:Brown Gravy,1 t yeast extract,1,t,yeast extract
+301,48,Cookbook:Brown Rice with Ground Turkey,"2 cups cooked brown rice (300 Calories, 66 g Carbs, 8  Protein)",2,cups,"cooked brown rice (300 Calories, 66 g Carbs, 8  Protein)"
+302,48,Cookbook:Brown Rice with Ground Turkey,"20 ounces of extra lean ground turkey breast (600 calories, 130 g protein, cholesterol 225 mg)",20,ounces,"of extra lean ground turkey breast (600 calories, 130 g protein, cholesterol 225 mg)"
+303,48,Cookbook:Brown Rice with Ground Turkey,"1 12 oz can diced tomatoes with green chilies (90 calories, 18 g Carbs, 3 g protein, 3 g dietary fiber)",1,12,"oz can diced tomatoes with green chilies (90 calories, 18 g Carbs, 3 g protein, 3 g dietary fiber)"
+304,48,Cookbook:Brown Rice with Ground Turkey,1 ounce vegetable oil (120 calories),1,ounce,vegetable oil (120 calories)
+305,48,Cookbook:Brown Rice with Ground Turkey,"1 tablespoon Teriyaki Sauce (10 calories, 2 g carbs, 1 g sugar)",1,tablespoon,"Teriyaki Sauce (10 calories, 2 g carbs, 1 g sugar)"
+306,48,Cookbook:Brown Rice with Ground Turkey,"Seasonings to taste: e.g., garlic powder, lemon pepper, All Spice, etc.",Seasonings,to,"taste: e.g., garlic powder, lemon pepper, All Spice, etc."
+307,49,Cookbook:Brownies,"1 Recipes
+
+1.1 Plain
+1.2 For Special diets
+1.3 Variations
+
+",1,"Recipes
+
+1.1","Plain
+1.2 For Special diets
+1.3 Variations
+
+"
+308,49,Cookbook:Brownies,1.2 For Special diets,1.2,For,Special diets
+309,49,Cookbook:Brownies,2 See Also,2,See,Also
+310,50,Cookbook:Bruschetta,"1 loaf of Italian or French bread, sliced 1/2 inch (c. 1cm) thick on the bias",1,loaf,"of Italian or French bread, sliced 1/2 inch (c. 1cm) thick on the bias"
+311,50,Cookbook:Bruschetta,1/2 head garlic,1/2,head,garlic
+312,50,Cookbook:Bruschetta,Kosher salt or sea salt and freshly ground black pepper,Kosher,salt,or sea salt and freshly ground black pepper
+313,50,Cookbook:Bruschetta,Extra-virgin olive oil,Extra-virgin,olive,oil
+314,50,Cookbook:Bruschetta,Toppings of your choice (see examples below),Toppings,of,your choice (see examples below)
+315,51,Cookbook:Bubble and Squeak,"1 medium onion, chopped, optional, red, white, or yellow only",1,medium,"onion, chopped, optional, red, white, or yellow only"
+316,51,Cookbook:Bubble and Squeak,1 tablespoon fat or oil,1,tablespoon,fat or oil
+317,51,Cookbook:Bubble and Squeak,"Various cooked vegetables, potatoes and cabbage, optionally carrots, peas, and Brussels sprouts.",Various,cooked,"vegetables, potatoes and cabbage, optionally carrots, peas, and Brussels sprouts."
